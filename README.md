@@ -16,5 +16,6 @@
  
 <div> 
  <a href = "mailto:Elicardoso645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://www.linkedin.com/feed/"><img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" target="_blank"></a> 
+ <a href = "https://www.linkedin.com/feed/"><img src="devicon-linkedin-plain-wordmark"></a>
+           
 </div>
