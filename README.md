@@ -15,5 +15,6 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-      <a href = "mailto:Elicardoso645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+ <a href = "mailto:Elicardoso645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:Elicardoso645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
